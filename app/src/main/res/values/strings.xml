@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">C0782918_Ex4</string>
+
+    <string-array name="suffixArray">
+        <item>Mr.</item>
+        <item>Mrs.</item>
+        <item>Ms.</item>
+        <item>Dr.</item>
+        <item>Sir</item>
+        <item>Lord</item>
+    </string-array>
+
+    <string-array name="country">
+        <item>India</item>
+        <item>Canada.</item>
+        <item>USA</item>
+        <item>Nepal</item>
+        <item>Sri Lanka</item>
+        <item>Phillipines</item>
+    </string-array>
+
+    <string-array name="countryCode">
+        <item>+91</item>
+        <item>+61</item>
+        <item>+1</item>
+    </string-array>
+
+    <string-array name="designation">
+        <item>Software Engineer</item>
+        <item>Senior Engineer</item>
+        <item>Project Manager</item>
+        <item>Support</item>
+        <item>Design</item>
+        <item>Marketing</item>
+    </string-array>
+
+</resources>
